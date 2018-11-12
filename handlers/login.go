@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/kelseyhightower/app/user"
+	"github.com/bimalvasan/app/user"
 	"golang.org/x/crypto/bcrypt"
 )
 
