@@ -10,9 +10,9 @@ import (
 	"syscall"
 
 	"github.com/braintree/manners"
-	"github.com/kelseyhightower/app/handlers"
-	"github.com/kelseyhightower/app/health"
-	"github.com/kelseyhightower/app/user"
+	"github.com/bimalvasan/app/handlers"
+	"github.com/bimalvasan/app/health"
+	"github.com/bimalvasan/app/user"
 )
 
 const version = "1.0.0"
